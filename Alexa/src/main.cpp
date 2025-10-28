@@ -5,11 +5,11 @@
 #include <SinricProSwitch.h>
 
 // Define constantes para conexão Wi-Fi e SinricPro
-#define WIFI_SSID   "iphone de Anabelle"
-#define WIFI_PASS   "Anabelle20"
-#define APP_KEY     "6c79f2e8-36ff-417a-9ffb-f872917645d9"
-#define APP_SECRET  "fa292a9d-15eb-4a89-a628-36d937e2f216-6f3c8254-4ad2-4dee-bec2-0948801433be"
-#define SWITCH_ID   "690142d4ba649e246c1443ee"
+#define WIFI_SSID   ""
+#define WIFI_PASS   ""
+#define APP_KEY     ""
+#define APP_SECRET  ""
+#define SWITCH_ID   ""
 #define BAUD_RATE   9600
 
 // Define os pinos GPIO para o botão e o rele
